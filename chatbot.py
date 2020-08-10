@@ -1,8 +1,8 @@
-# building a chatbot with deep NLP
+# Building a chatbot with deep NLP #
 
 #PART-1 DATA PRE-PROCESSING
 
-#importing libraries
+#importing the libraries
 import numpy as np
 import tensorflow as tf
 import re
